@@ -11,28 +11,28 @@ and the Flutter guide for
 [developing packages and plugins](https://flutter.dev/developing-packages).
 -->
 
-The Flutter UI Essentials package is still work in progress.
+This package is still work in progress.
 
 ## Features
 
-TODO: List what your package can do. Maybe include images, gifs, or videos.
+This package contains everything you need for UI development in Flutter.
 
 ## Getting started
 
-TODO: List prerequisites and provide or point to information on how to
-start using the package.
+Nothing special required: only install the dependency and use :)
 
 ## Usage
 
-TODO: Include short and useful examples for package users. Add longer examples
-to `/example` folder.
+### Basic Use
 
 ```dart
 const like = 'sample';
 ```
 
-## Additional information
+## Support
 
-TODO: Tell users more about the package: where to find more information, how to
-contribute to the package, how to file issues, what response they can expect
-from the package authors, and more.
+You have some ways to contribute to this packages
+
+- Beginner: Reporting bugs or request new features
+- Intermediate: Implement new features (from issues or not) and created pull requests
+

@@ -1,7 +1,7 @@
 name: flutter_ui_essentials
 description: A Flutter essential widgets package for creating professional and beatiful UI.
 version: 0.0.1
-homepage: 
+repository: https://github.com/ryanhz/flutter_ui_essentials
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
